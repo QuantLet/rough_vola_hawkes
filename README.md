@@ -14,19 +14,19 @@ Description: We extend the rough volatility model by Gatheral, Jaisson and Rosen
 Submitted: 10 Apr 2024
 
 Keywords: 
-- 'Rough Volatility
-- 'Hurst
-- 'Hawkes Processes
-- 'Stochastic Jumps
-- 'Bitcoin Price Jumps
-- 'Stochastic Process
-- 'Self-Exciting Jumps
+- Rough Volatility
+- Hurst
+- Hawkes Processes
+- Stochastic Jumps
+- Bitcoin Price Jumps
+- Stochastic Process
+- Self-Exciting Jumps
 
 Author: 
-- 'Lukas Krain
+- Lukas Krain
 
 See also: 
-- 'Lee Mykland Jump Test
-- 'Hawkes, Omitakahiro
+- Lee Mykland Jump Test
+- Hawkes, Omitakahiro
 
 ```
