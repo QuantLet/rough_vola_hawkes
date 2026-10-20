@@ -14,15 +14,15 @@ Description: This program aggregates the raw price data into usable log-returns.
 Submitted: 10 Apr 2024
 
 Keywords: 
-- 'Bitcoin
-- 'Microstructure
-- 'Stochastic Process
+- Bitcoin
+- Microstructure
+- Stochastic Process
 
 Author: 
-- 'Lukas Krain
+- Lukas Krain
 
 See also: 
-- 'Market Microstructure
-- 'Bid-Ask Bounce
+- Market Microstructure
+- Bid-Ask Bounce
 
 ```
