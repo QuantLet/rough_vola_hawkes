@@ -14,15 +14,15 @@ Description: The volatility process of financial assets are usually of the highe
 Submitted: 10 Apr 2024
 
 Keywords: 
-- 'Rough Volatility
-- 'Hurst
-- 'Bitcoin Price roughness
-- 'Stochastic Process
+- Rough Volatility
+- Hurst
+- Bitcoin Price roughness
+- Stochastic Process
 
 Author: 
-- 'Lukas Krain
+- Lukas Krain
 
 See also: 
-- 'Gatheral, Jaisson, Rosenbaum (2016)
+- Gatheral, Jaisson, Rosenbaum (2016)
 
 ```
