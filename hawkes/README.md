@@ -14,17 +14,17 @@ Description: In order to model jumps, we first have to identify them. Two method
 Submitted: 10 Apr 2024
 
 Keywords: 
-- 'Hawkes Processes
-- 'Stochastic Jumps
-- 'Bitcoin Price Jumps
-- 'Stochastic Process
-- 'Self-Exciting Jumps
+- Hawkes Processes
+- Stochastic Jumps
+- Bitcoin Price Jumps
+- Stochastic Process
+- Self-Exciting Jumps
 
 Author: 
-- 'Lukas Krain
+- Lukas Krain
 
 See also: 
-- 'Lee Mykland Jump Test
-- 'Hawkes, Omitakahiro
+- Lee Mykland Jump Test
+- Hawkes, Omitakahiro
 
 ```
